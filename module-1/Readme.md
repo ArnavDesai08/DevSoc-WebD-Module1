@@ -85,7 +85,7 @@ Committing is like creating a **snapshot** of your code at a certain point in ti
 
 ---
 
-## ✅ Submission Instructions
+## Submission Instructions
 
 You need to submit the **URL** to your final, pushed-to-GitHub repository.
 
@@ -95,4 +95,11 @@ You need to submit the **URL** to your final, pushed-to-GitHub repository.
 3. **Go to the Google Form link:** `https://forms.gle/JQSYZTpwwYFW384MA`
 4. **Paste the URL** into the required field and complete any other necessary fields.
 
-Good luck! This project will teach you fundamental web development skills.
+## Helpful Resources:
+- [DevSoc Web Development Resources](https://github.com/Devsoc-BPGC/webd-modules/blob/main/README.md)
+- [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [MDN Web Docs - JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
+## Good luck! This project will teach you fundamental web development skills.
